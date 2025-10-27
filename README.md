@@ -24,6 +24,7 @@ Final assessment of the project	3
 
 Team Member Retrospectives
 Achsah Jojo
+
 I made the whole project come together by connecting the backend to the front-end. 
 What was your role / which stories did you work on
 My role was on both frontend and backend to fix bugs and connect everything together
@@ -54,6 +55,7 @@ What is the most valuable thing you learned?
 Documentation is key. If only one team member knows how the entire backend which is the backbone of a backend based project works then it is really difficult to debug errors and understand why things were done the way they were. Also it is important to understand the code you write so you can explain it to others.
 
 Shannyn Cabi
+
 My main contribution was creating the delete operations for lists (since the original project was missing a delete function) and implementing that to work with the frontend as well. I also worked with testing all the API routes using PostMan to ensure our code worked, even though we faced many issues with getting the program to run on all our devices. I also kept track/organized our progress on GitHub with Achsah.
 What was your role / which stories did you work on
 My role was incorporating DELETE operations into our app and ensuring all our API routes were working with Postman testing.
@@ -75,6 +77,7 @@ What is the most valuable thing you learned?
 For me, it was very informative looking over code from my other teammates, the controllers for example, which I barely had any experience with before,  and getting familiar working specifically on building the backend. I think another important lesson for me was getting help sooner rather than later, and knowing when my efforts towards solving a bug kept leading to the same dead end, vs getting an outside perspective to help debug and solve an issue.
 
 Luis Tapia
+
 My main contribution to the project was the backend. I set up the MongoDB and connected it to spring boot. I also helped on some of the front end functionality. I also worked on setting up unit testing.
 What was your role / which stories did you work on
 I worked on setting up springboot, setting up some api endpoints, implementing the MongoDb, and finally connecting them together. 
@@ -92,7 +95,9 @@ If you could do it over, what would you change?
 I would go about how I created the backend differently since it was my first time with most of this software. 
 What is the most valuable thing you learned?
 I learned how important it is to communicate with your team. 
+
 Abel Plascencia
+
 My Main contribution was deploying the API on heroku and doing a heavy chunk of OAuth logic for logging in as well as creating the keys and such to log in. Also connecting OAuth tokens to the back end.
 What was your role / which stories did you work on
 My roles were hosting the backend API, deploying the container and wrapping it up with deploying OAuth.
@@ -117,8 +122,10 @@ Apps are not just made overnight, apps take a lot of time and meticulous changes
 Conclusions
 
 How successful was the project?
+
 In the end, our team was just about 100% successful. This is because we were able to find work through and find solutions to our seemingly endless issues with connectivity, errors on starting up the program, and many more discussed in our documentation. We were able to strengthen our understanding of both AWS and Heroku, since we ended up switching, and got better at diagnosing issues regarding web only vs android vs ios emulators. We also learned the importance of effective communication with each other and with our TAs since we had to be explicit in describing and replicating the issues we were running into.
 What was the largest victory?
+
 Our largest victory was finally getting the front and back end connected for all group members, and diagnosing our local host issue that was preventing us from reaching this point sooner. 
 Final assessment of the project
 This project was very helpful in preparing us for both capstone and real-life projects; we were faced with failure upon failure, and our attempts at solving them seemed futile, which caused lots of pressure due to our time-crunch for the project. However, it forced us to try and experiment with new solutions and see where we were lacking; in communication, our actual code, our systems, etc.
