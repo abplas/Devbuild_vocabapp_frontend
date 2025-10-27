@@ -1,21 +1,31 @@
 #README
+
 Project 02 Retrospective
+
 Shannyn Cabi, Achsah Jojo, Abel Plascencia, Luis Tapia
 
 Github Link Front End: https://github.com/abplas/Devbuild_vocabapp_frontend
 Github Link Back End: https://github.com/AchsahJojo/VocabularyApp_Backend
 API Link: https://vocabapp-backend-3ec74c7b267c.herokuapp.com
+
 Introduction
+
 It was the best of projects, it was the worst of projects. It was a project that revealed our wisdom, it was a project that revealed our foolishness.
 We communicated primarily through Slack and in person meetings.
 We initially considered about 8 user stories that resulted in 20 github issues.  In the end we completed 19 of the 20 issues.
 
 Introduction	1
+
 Team Member Retrospectives	2
+
 Achsah Jojo	2
+
 Shannyn Cabi	4
+
 Luis Tapia	5
+
 Abel Plascencia	6
+
 Conclusions	3
 How successful was the project?	3
 What was the largest victory?	3
