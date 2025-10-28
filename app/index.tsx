@@ -14,6 +14,9 @@ import ResetPassword from "./screens/ResetPassword";
 import ListCreation from "./screens/ListCreation";
 import WordListPage from "./screens/wordList";
 import PickList from "./screens/PickList";
+import { RootStackParamList } from "../types";
+
+const Stack = createNativeStackNavigator<RootStackParamList>();
 
 const initDB = async (db: SQLiteDatabase) => {
   try {
@@ -67,8 +70,6 @@ const initDB = async (db: SQLiteDatabase) => {
     Alert.alert("Error", "Database initialization failed. Please try again later.");
   }
 };
-
-const Stack = createNativeStackNavigator();
 
 export default function AppNavigator() {
   return (
