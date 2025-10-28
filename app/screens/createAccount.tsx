@@ -17,7 +17,7 @@ export default function CreateAccount() {
       }
 
       // Call backend API instead of SQLite
-      const response = await fetch("http://localhost:8080/api/auth/register", {
+      const response = await fetch("https://vocabapp-backend-3ec74c7b267c.herokuapp.com", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

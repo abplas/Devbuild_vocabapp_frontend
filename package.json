@@ -20,10 +20,11 @@
   "dependencies": {
     "@expo/json-file": "^9.0.1",
     "@expo/vector-icons": "~14.0.4",
-    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-native-async-storage/async-storage": "1.23.1",
     "@react-navigation/bottom-tabs": "^7.2.0",
     "@react-navigation/native": "^7.0.14",
     "expo": "~52.0.28",
+    "expo-application": "~6.0.2",
     "expo-asset": "~11.0.5",
     "expo-auth-session": "~6.0.3",
     "expo-blur": "~14.0.3",
